@@ -8,4 +8,4 @@ Project demo gồm 4 phần:
   
 - Server cung cấp hàm upload 1 file, sử dụng nonblocking server. 
 - Với tính chất demo thì trong project client đã có sẵn thư mục data, dữ liệu sẽ được gửi đi từ thư mục này.
-- Folder storage tại prlà nơi chứa những files mà client truyền lên.
+- Folder storage tại slà nơi chứa những files mà client truyền lên.
